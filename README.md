@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Otto 👋  
+*Student and code tinkerer exploring OOP and beyond.*
 
-<!--
-**codebyotto/codebyotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🚀 Currently a student diving into programming, experimenting with object-oriented paradigms, and trying out different languages and frameworks. I love building projects just for the fun of it and learning as I go.  
 
-Here are some ideas to get you started:
+💡 My motto: *"Try, break, learn, repeat."*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏎️ Outside of coding, I’m passionate about cars and bikes—they fuel my creativity and keep me inspired.
+
+## Skills & Interests
+- Object-Oriented Programming (Java, Python, C#… still exploring!)
+- Web Development (HTML, CSS, JS basics)
+- Experimenting with frameworks & tools
+- Algorithm design & problem solving
+- Project prototyping and fun side projects
+
+## Projects
+Here are a few projects I’m currently working on or experimenting with:  
+- **Multiplayer Card Game** – Web interface + backend server, testing AI strategies  
+- **Miscellaneous Fun Experiments** – Trying out different languages and frameworks
+
+## Let’s Connect
+I’m always open to collaboration, sharing ideas, or just chatting about code, cars, or bikes!  
+
+- GitHub: [@codebyotto](https://github.com/codebyotto)  
+
+---
+
+*“Code, build, learn, repeat—life’s too short for boring projects.”*
+
